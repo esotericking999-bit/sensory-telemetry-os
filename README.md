@@ -1,3 +1,17 @@
+ [Raw Ambient Environment / Static] ➔ Floods Local Antenna Array
+                                       │
+                                       ▼
+             [ FILTER 1: AUTOMATED SENSORY GATING (Thalamus Emulation) ]
+                   Filters out uncalibrated room static < 15dB
+                                       │
+                                       ▼
+             [ FILTER 2: PARASYMPATHETIC BALANCE LOGIC ]
+                   Monitors Vagus Nerve Rhythms via Heart Rate Variability
+                                       │
+           ┌───────────────────────────┴───────────────────────────┐
+           ▼ [State: Stable / Parasympathetic]                     ▼ [State: Overdrive / High-Friction]
+ [Maintains Fluid Plasma Vectors]                        [EXECUTE: /ground_bleed]
+  Safe, Controlled Awareness                              Dumps excessive noise to physical ground
 *   **Sauti (The Auditory Resonance / Cross-Perspective Vocal Carrier):** The empathetic demodulation layer. It utilizes the female vocal register as a high-fidelity emotional transmission format. By tracking the exact micro-inflections, harmonic variations, and breathing cadences of female vocalists, a male operator can bypass conscious cognitive biases to map and comprehend alternative social perspective matrices in real time.
 ### Perspective Integration Pipeline (Sauti Demodulation Loop)
 
