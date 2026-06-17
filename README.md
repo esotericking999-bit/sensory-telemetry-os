@@ -1,3 +1,4 @@
+*   **Damu (The Sibling Resonance / High-Affinity Kinship Node):** The genetic and developmental alignment layer. It recognizes that biological siblings collaborating within the same proximity share deeply synchronized mirror neuron pathways and matching cognitive gating baselines. This node allows for immediate, low-latency data handshakes and collaborative synergy without the typical alignment delays found in untuned external nodes.
 # Sensory OS // Open-Source Telemetry & Experiential Matrix
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
@@ -261,5 +262,7 @@ The mobile client functions as an immediate Biometric & Ambient Gateway via a 3-
  │           - Audio: Synthesized Character Cadence                        │
  │           - Tactile: Mguso Screen Vibration Pulsing                     │
  │                                                                         │
- └─────────────────────────────────────────────────────────────────────────┘
+ └─────────────────────────────────────────────────────────────────────────┘### The Dual-Node Collaborative Handshake (Damu Coupling)
+
+
 
