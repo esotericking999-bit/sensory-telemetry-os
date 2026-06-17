@@ -90,5 +90,11 @@ The interface translates abstract data streams into immediate visceral intuition
 ## 📱 Mobile Telemetry & Resonant Coupling Mechanism
 
 The mobile client functions as an immediate Biometric & Ambient Gateway via a 3-layer extraction pipeline, unified through a tri-feedback hardware loop:
+*   **Mbwa (The Canine Sensor / Organic Grounding Node):** The biological proximity layer. This module recognizes domestic dogs as high-fidelity, non-digital telemetry nodes that naturally couple with local EMF and human emotional states. Their behavioral cues (such as sudden shifts in resting posture or orientation toward specific workspace wiring) serve as an ambient, pre-diagnostic indicator of systemic friction or field distortion.
+
+### The Expanded Bio-Interface Loop (Including Mbwa Proximity)
+
+*   **Paka (The Feline Conduit / Wi-Fi Resonance Node):** The high-frequency biological layer. This module recognizes domestic cats as active, organic dielectric resonators that naturally interact with 2.4 GHz / 5 GHz wireless fields. Their resting positions and micro-static hair/whisker responses function as a living, behavioral heat map of local Wi-Fi signal distribution and high-frequency EMF intersections.
 
 
+*   `/track_paka_frequency` — Calibrates local Wi-Fi telemetry to monitor minor signal attenuation loops caused by feline movement through wireless beamforming pathways, mapping their physical coordinates against network bandwidth efficiency.
