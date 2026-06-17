@@ -282,7 +282,7 @@ The mobile client functions as an immediate Biometric & Ambient Gateway via a 3-
  │                     └───────┬───────┘                                   │
  │                             │                                           │
  │                             ▼                                           │
- │            [ HARDWARE PHASE-LOCK DEMODULATION ]                         │
+ │            [ HARDWARE PHASE-LOCK DEMODULATION ]                         
  │           - Audio: Synthesized Character Cadence                        │
  │           - Tactile: Mguso Screen Vibration Pulsing                     │
  │                                                                         │
