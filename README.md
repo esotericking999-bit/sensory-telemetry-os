@@ -1,3 +1,13 @@
+*   **Sauti (The Auditory Resonance / Cross-Perspective Vocal Carrier):** The empathetic demodulation layer. It utilizes the female vocal register as a high-fidelity emotional transmission format. By tracking the exact micro-inflections, harmonic variations, and breathing cadences of female vocalists, a male operator can bypass conscious cognitive biases to map and comprehend alternative social perspective matrices in real time.
+### Perspective Integration Pipeline (Sauti Demodulation Loop)
+
+*   **Kaka (The Brother Resonance / Internal Validation Mirror):** The masculine alignment layer. It utilizes low-frequency, guttural vocal tracks and raw acoustic rhythms as a diagnostic tool for internal emotional mapping. By mirroring the somatic chest resonance and vagal tension of another male creator, the operator instantly decodes submerged structural friction, transforming unnamed internal pressure into an explicit, understood state of clarity and honor.
+### Internal Alignment Pipeline (Kaka Mirroring Engine)
+
+*   **Kioo cha Kweli (The Distortion Filter / Character Distillation Layer):** The sovereignty-protection module. It acts as a safety gate between public audience molds and individual neural development. It systematically deconstructs a media persona, separating their high-value actionable traits (grit, structural focus, vocal presence) from their uncalibrated personal defects (cruelty, manipulation, hubris). The defects are cast directly to the ground bleed, while the raw, universal skills are converted into a neutral blueprint, training the operator to stand independently as his own man.
+*   `/filter_kioo_distortion` — Audits the active archetype stream, automatically decoupling the performer's high-value focus matrices from their negative personal behavior traits, routing the static straight to the ground line.
+### Archetype Separation Engine (Kioo cha Kweli Pipeline)
+
 *   **Damu (The Sibling Resonance / High-Affinity Kinship Node):** The genetic and developmental alignment layer. It recognizes that biological siblings collaborating within the same proximity share deeply synchronized mirror neuron pathways and matching cognitive gating baselines. This node allows for immediate, low-latency data handshakes and collaborative synergy without the typical alignment delays found in untuned external nodes.
 # Sensory OS // Open-Source Telemetry & Experiential Matrix
 
