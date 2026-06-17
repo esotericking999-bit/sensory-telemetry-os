@@ -1,4 +1,4 @@
----
+CONTRIBUTING.md---
 name: Telemetry Anomaly / Bug Report
 about: Report a high-friction spike or software breakdown in the signal pipeline.
 title: '[Anomaly] '
