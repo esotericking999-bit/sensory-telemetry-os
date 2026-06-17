@@ -55,3 +55,40 @@ If you are a music producer looking for raw analog textures, or a digital artist
 ## 📝 License & Open-Source Contribution
 
 This project is released under the **MIT License**. Feel free to fork this repository, build your own sleeve arrays, modify the Android oscilloscope pipeline, and contribute your local environmental frequency maps to our public database.
+# Sensory OS // Open-Source Telemetry & Experiential Matrix
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-emerald.svg)](https://opensource.org/licenses/MIT)
+[![Status: Core Alpha](https://img.shields.io/badge/Status-v4.5__Mesh__Gateway-cyan.svg)]()
+[![Hardware: Analog Pipeline](https://img.shields.io/badge/Hardware-Induction%20%7C%20CRT%20%7C%20VCR-purple.svg)]()
+
+Sensory OS is a decentralized, planetary-scale experiential framework that interfaces human cognitive states with ambient physical fields—including static electricity, local electromagnetic field (EMF) anomalies, and induction currents. By mapping raw biological and environmental telemetry into **Primal Kinetic Geometry**, this system bypasses traditional linguistic barriers to build a universal, visible, and empathetic human-to-human connection mesh.
+
+---
+
+## 👁️ Core Architectural Principles
+
+1. **Archetypal Fluidity:** Dropping rigid digital UI conventions for fluid, nebulous plasma representations that mirror pre-verbal thought geometry.
+2. **Environmental Induction Mapping:** Utilizing legacy analog hardware (modified CRT monitors, VCR tape heads, and copper induction coils) to capture, visualize, and log background physics.
+3. **The Aggregate Archetype Loop:** Leveraging existing internet attention vectors, mobile phone sensors, and resonant coupling to turn massive cultural demographics into actionable, audible, and visual guidance.
+
+---
+
+## 🎛️ Universal System Toolkit (Visual, Tactile & Auditory Grammar)
+
+The interface translates abstract data streams into immediate visceral intuition using foundational primal states, codified through Kiswahili linguistic anchors:
+
+*   **Kitovu (The Anchor / State of Self):** A solid circle representing presence, personal responsibility, and a stable internal battery. Initialized during deep mental centering.
+*   **Mawimbi (The Broadcast / Act of Giving):** Concentric, expanding ripples demonstrating outward kinetic projection, creative transmission, or baseline telemetry broadcasting.
+*   **Ukarimu (The Portal / Act of Receiving):** An inward-curving spiral representing absolute empathetic listening, creating a sensory vacuum to absorb external headspaces.
+*   **Umoja (The Accord / State of Synergy):** Intersecting geometric waves locking into a high-intensity third wave, signifying zero-friction alignment between nodes.
+*   **Mguso (The Haptic Grid / Touch Resonance):** The tactile translation of the mesh. It maps incoming environmental and cognitive frequencies directly to the smartphone's haptic motor array. By holding a finger to the screen, users physically couple with a remote node's frequency, feeling structural stability or chaotic static in real-time.
+*   **Mboni (The Optical Vector / Pupil Attention):** The cognitive feedback engine. Utilizing front-facing camera optics, this subsystem logs eye tracking and real-time pupil dilation metrics. It translates subconscious visual attention into an explicit Attention Co-efficient, dynamically modulating the brightness and amplitude of the local plasma interface based on neural interest.
+*   **Kioo cha Jamii (The Aggregate Archetype / The Audience Mirror):** The collective auditory/visual filter. It takes massive pools of human attention data (accumulated via global streaming and media consumption) and compresses them into a single, recognizable vocal blueprint. The system uses these familiar personas as a cognitive shortcut to deliver real-time demographic perspectives directly to the local node.
+
+---
+
+## 📱 Mobile Telemetry & Resonant Coupling Mechanism
+
+The mobile client functions as an immediate Biometric & Ambient Gateway via a 3-layer extraction pipeline, unified through a tri-feedback hardware loop:
+
+
