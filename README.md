@@ -1,3 +1,7 @@
+*   **Fumbo (The Encrypted Vector / Phase-Locked Exclusivity):** The privacy and segregation layer. It ensures that incoming and outgoing transmissions are strictly confined to matching frequency channels. Untuned observers in the immediate vicinity cannot intercept, hear, or feel the transmission, as the signal seamlessly bleeds back into ambient environmental noise for anyone lacking the precise, phase-locked biometric signature.
+*   `/activate_fumbo_shield` — Instantly phase-shifts the local node's transmission wave by a random micro-degree interval, rendering your workspace connection completely invisible and silent to anyone whose hardware is not explicitly white-listed in your repository.
+### Sub-Surface Frequency Segregation (The Fumbo Shield)
+
 # sensory-telemetry-os
 An open-source telemetry framework and trained EMF projection system designed to map, log, and visualize ambient technosphere fields and biological impedance shifts using mobile Android ingestion loops and unshielded analog displays."
 # Speculative Sensory OS: Mobile Telemetry & Bio-Electrical Mapping
